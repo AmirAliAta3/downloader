@@ -1,6 +1,7 @@
 # Downloaded list :
 
 - [archive_20260509_194514](./archive_20260509_194514)
+- [karing_1.2.18.2102_android_arm64-v8a](./karing_1.2.18.2102_android_arm64-v8a)
 - [watch](./watch)
 - [x-ui-linux-amd64.tar](./x-ui-linux-amd64.tar)
 
